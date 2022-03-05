@@ -1,0 +1,25 @@
+.bg-container{
+    background-color:#f1f5f8;
+    height:100vh;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+.heading{
+    color:#2d3a35;
+    font-family:Roboto;
+    font-size:34px;
+}
+.span{
+    color:#c20a72;
+    margin-left:6px;
+    margin-right:6px;
+}
+.button{
+    background-color:#007bff;
+    border-width:0px;
+    color:#ffffff;
+    width:120px;
+    height:32px;
+}
